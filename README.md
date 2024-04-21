@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abraxas86
 - 👀 I’m interested in Music, Scripting, and general shenanigans
-- 🌱 I’m currently learning new ways to have fun at work.  Currently, Powershell
+- 🌱 I’m currently learning new ways to have fun at work.  Currently: Powershell, JavaScript, TI-99 Expanded Basic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
